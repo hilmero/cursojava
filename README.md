@@ -6,3 +6,7 @@ Recuerden visitar y revisar cada clase grabada en video en el canal de Youtube h
 Canal de Youtube : https://youtube.com/c/hilmerpa
 
 Video promocional https://youtu.be/jGCfSRuJTEc
+
+Video clase #1 https://youtu.be/Y6BInzAvsMI Introduccion
+
+Video Clase #2 https://youtu.be/3q6Ns8UHW3A Tipo de datos
