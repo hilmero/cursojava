@@ -12,3 +12,5 @@ Video promocional del curso https://youtu.be/jGCfSRuJTEc
 Video clase #1 https://youtu.be/Y6BInzAvsMI Introduccion
 
 Video clase #2 https://youtu.be/3q6Ns8UHW3A Tipo de datos
+
+Video clase #3 https://youtu.be/cc9q6jK9MQ8 Operadores y Expresiones
