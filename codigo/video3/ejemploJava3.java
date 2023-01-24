@@ -51,7 +51,7 @@ class ejemploJava3 {
   System.out.println(y);    
 	y= 4/(j+7)*3;            // 1.3
   System.out.println(y);   
-	y= 4/++j+7*3; 			     // 22.33
+	y= 4/++j+7*3; 		 // 22.33
   System.out.println(y);   
 	}
 }
