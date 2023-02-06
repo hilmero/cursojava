@@ -9,7 +9,7 @@ La POO, lo que debe saber: https://hilmer.vip/2022/12/13/programacion-orientada-
 
 Video promocional del curso https://youtu.be/jGCfSRuJTEc
 
-Video clase #1 https://youtu.be/Y6BInzAvsMI Introduccion
+Video clase #1 https://youtu.be/Y6BInzAvsMI Introducción
 
 Video clase #2 https://youtu.be/3q6Ns8UHW3A Tipo de datos
 
@@ -17,4 +17,4 @@ Video clase #3 https://youtu.be/cc9q6jK9MQ8 Operadores y Expresiones
 
 Video clase #4 https://youtu.be/DwmlcgScHys Entrada de datos
 
-Video clase #5 https://youtu.be/DwmlcgScHys Salida de datos
+Video clase #5 https://youtu.be/OLj0qo-UKF4 Salida de datos
