@@ -18,3 +18,5 @@ Video clase #3 https://youtu.be/cc9q6jK9MQ8 Operadores y Expresiones
 Video clase #4 https://youtu.be/DwmlcgScHys Entrada de datos
 
 Video clase #5 https://youtu.be/OLj0qo-UKF4 Salida de datos
+
+Video clase #6 https://youtu.be/rT_1a2qa8UA 10 Ejercicios básicos
