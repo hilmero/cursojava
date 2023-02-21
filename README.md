@@ -20,3 +20,5 @@ Video clase #4 https://youtu.be/DwmlcgScHys Entrada de datos
 Video clase #5 https://youtu.be/OLj0qo-UKF4 Salida de datos
 
 Video clase #6 https://youtu.be/rT_1a2qa8UA 10 Ejercicios básicos
+
+Video clase #7 https://youtu.be/EI9m3q1d3d0 Estructura condicional if
