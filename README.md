@@ -5,6 +5,8 @@ Recuerden visitar y revisar cada clase grabada en video en el canal de Youtube h
 
 Canal de Youtube: https://youtube.com/c/hilmerpa
 
+Programación Estructurada ¿Qué es?: https://hilmer.vip/2023/01/21/programacion-estructurada/
+
 La POO, lo que debe saber: https://hilmer.vip/2022/12/13/programacion-orientada-a-objetos/
 
 Video promocional del curso https://youtu.be/jGCfSRuJTEc
