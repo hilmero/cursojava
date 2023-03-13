@@ -28,3 +28,5 @@ Video clase #7 https://youtu.be/EI9m3q1d3d0 Estructura condicional if
 Video clase #8 https://youtu.be/-n54-iFW-vA Estructura condicional switch
 
 Video clase #9 https://youtu.be/eig3qCevtKo Operadores relacionales y logicos
+
+Video clase #10 https://youtu.be/M4f-UNk-7TM Estrucutras de Repetición for, while y do while
