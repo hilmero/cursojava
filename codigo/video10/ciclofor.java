@@ -1,4 +1,4 @@
-public class MyClass {
+public class ciclofor {
     
     public static void main(String[] args) {
        System.out.println("Tabla de multiplicar del 5");
