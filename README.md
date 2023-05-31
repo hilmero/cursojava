@@ -32,3 +32,7 @@ Video clase #9 https://youtu.be/eig3qCevtKo Operadores relacionales y logicos
 Video clase #10 https://youtu.be/M4f-UNk-7TM Estrucutras de Repetición for, while y do while
 
 Video clase #11 https://youtu.be/LD27O6HfyXY Estructuras de datos en JAVA
+
+Video clase #12 https://youtu.be/_PlG62GPehY Estructuras de datos enumerados
+
+Video clase #13 https://youtu.be/MiapYT-ddww Arreglos o Arrays
