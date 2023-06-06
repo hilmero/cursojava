@@ -38,3 +38,5 @@ Video clase #11 https://youtu.be/LD27O6HfyXY Estructuras de datos en JAVA
 Video clase #12 https://youtu.be/_PlG62GPehY Estructuras de datos enumerados
 
 Video clase #13 https://youtu.be/MiapYT-ddww Arreglos o Arrays
+
+Video clase #14 https://youtu.be/77Ieq8JwiDQ Tipos de Arreglos en JAVA
